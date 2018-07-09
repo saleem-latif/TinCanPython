@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='tincan',
+    name='tincanapi',
     packages=[
         'tincan',
         'tincan/conversions',
